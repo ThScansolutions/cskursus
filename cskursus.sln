@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Break", "Break\Break.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funktioner", "Funktioner\Funktioner.csproj", "{FB46C595-D0AB-4D0A-B3D2-19C1FA434355}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetoderSimple", "MetoderSimple\MetoderSimple.csproj", "{5EE4320F-FCDB-402C-95AD-F1FE9BFC20B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overload", "Overload\Overload.csproj", "{893D1263-AFF2-4F0B-B59C-C2662C4DBB04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{FB46C595-D0AB-4D0A-B3D2-19C1FA434355}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB46C595-D0AB-4D0A-B3D2-19C1FA434355}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB46C595-D0AB-4D0A-B3D2-19C1FA434355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EE4320F-FCDB-402C-95AD-F1FE9BFC20B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EE4320F-FCDB-402C-95AD-F1FE9BFC20B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EE4320F-FCDB-402C-95AD-F1FE9BFC20B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EE4320F-FCDB-402C-95AD-F1FE9BFC20B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{893D1263-AFF2-4F0B-B59C-C2662C4DBB04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{893D1263-AFF2-4F0B-B59C-C2662C4DBB04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{893D1263-AFF2-4F0B-B59C-C2662C4DBB04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{893D1263-AFF2-4F0B-B59C-C2662C4DBB04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
